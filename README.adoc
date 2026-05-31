@@ -13,9 +13,8 @@ Per your preference, they can all be individually enabled or disabled in the Set
 
 # Installation
 
-* https://chromewebstore.google.com/detail/rebrickable-refined/bgpmmnkkpdpnmbimbdocoalmgoocmlan[image:https://developer.chrome.com/static/docs/webstore/branding/image/206x58-chrome-web-bcb82d15b2486.png[]]
-
-* https://addons.mozilla.org/firefox/addon/rebrickable-refined/[image:https://extensionworkshop.com/assets/img/documentation/publish/get-the-addon-178x60px.dad84b42.png[]]
+https://chromewebstore.google.com/detail/rebrickable-refined/bgpmmnkkpdpnmbimbdocoalmgoocmlan[image:https://developer.chrome.com/static/docs/webstore/branding/image/206x58-chrome-web-bcb82d15b2486.png[]]
+https://addons.mozilla.org/firefox/addon/rebrickable-refined/[image:https://extensionworkshop.com/assets/img/documentation/publish/get-the-addon-178x60px.dad84b42.png[]]
 
 = Privacy
 
